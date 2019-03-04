@@ -80,9 +80,37 @@ h1 {
     padding-left: 20px;
     padding-top: 0px;
 }
+
+.pris{
+    float: left;
+    width: 50%;
+    display: inline-block;
+}
+
+
+.pris p, h4, h5, h2{
+    padding-left: 300px;  
+}
+
+.kontakt p{
+    padding-left: 0px;
+}
+
+.kontakt{
+    float: right;
+    width: 50%;
+    display: inline-block;
+}
+
+.mapouter{
+    float: left;
+}
+
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
+    
+
 
