@@ -34,9 +34,55 @@ h1 {
   margin: 8px -16px;
 }
 
+.contanier{
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+.billede{
+    width: 40%;
+    float: left;
+    display: inline-block;
+}
+
+.billede img{
+    padding-left: 30%;
+    display: inline-block;
+    
+}
+
+.content1{
+    width: 40%;
+    float: left;
+    display: inline-block;
+}
+
+.content1 p{
+    padding-left: 20px;
+    padding-top: 0px;
+    
+}
+
+.video{
+    width: 60%;
+    float: left;
+    display: inline-block;
+}
+
+.content2{
+    width: 40%;
+    float: right;
+    display: inline-block;
+}
+
+.content2 p{
+    padding-left: 20px;
+    padding-top: 0px;
+}
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
-    
+
