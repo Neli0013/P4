@@ -68,6 +68,8 @@ h1 {
     display: inline-block;
 }
 
+video {width:100%;}
+
 .content2{
     width: 40%;
     float: right;
@@ -84,6 +86,7 @@ h1 {
     width: 50%;
     display: inline-block;
 }
+
 
 
 .pris p, h4, h5, h2{
@@ -130,5 +133,4 @@ footer p {
     height:389px;
     width:654px;
 }
-
 
