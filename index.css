@@ -68,7 +68,9 @@ h1 {
     display: inline-block;
 }
 
-video {width:100%;}
+video {
+    width:100%;
+}
 
 .content2{
     width: 40%;
@@ -132,5 +134,6 @@ footer p {
     background:none!important;
     height:389px;
     width:654px;
+    
 }
 
