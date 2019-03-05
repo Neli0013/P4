@@ -90,13 +90,12 @@ video {
 }
 
 
-
 .pris p, h4, h5, h2{
     padding-left: 300px;  
 }
 
 .kontakt p{
-    padding-left: 0px;
+    padding-left: 300px;
 }
 
 .kontakt{
@@ -121,19 +120,5 @@ footer {
 footer p { 
     text-align: center;
     width: 100%;
-}
-    
-.mapouter{
-    text-align:right;
-    height:389px;
-    width:654px;
-}
-    
-.gmap_canvas{
-    overflow:hidden;
-    background:none!important;
-    height:389px;
-    width:654px;
-    
 }
 
