@@ -50,6 +50,12 @@ h1 {
     padding-left: 300px;
 }
 
+.billede{
+    float: left;
+    display: inline-block;
+    padding-left: 200px;
+}
+
 .billede img{
     padding-left: 30%;
     display: inline-block;
@@ -76,6 +82,10 @@ h1 {
 
 video {
     width:100%;
+}
+
+.video1{
+    width: 60%;
 }
 
 .content2{
